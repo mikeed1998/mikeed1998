@@ -1,3 +1,7 @@
+Lenguajes de programación:
+
+![image](https://github.com/mikeed1998/mikeed1998/assets/49420226/eef54f65-9b40-412b-beb2-0ce7ebfe4669)
+
 ### Hi! 👻
 
 <!--
