@@ -1,6 +1,7 @@
-Lenguajes de programación:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![image](https://github.com/mikeed1998/mikeed1998/assets/49420226/eef54f65-9b40-412b-beb2-0ce7ebfe4669)
+
+<i class="devicon-c-plain"></i>
 
 ### Hi! 👻
 
