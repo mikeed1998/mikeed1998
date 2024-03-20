@@ -18,6 +18,14 @@ Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)](https://skillicons.dev)
 
+Editors
+
+[![My Skills](https://skillicons.dev/icons?i=sublime,vscode&perline=10)](https://skillicons.dev)
+
+
+
+
+
 
 ### Hi! 👻
 
