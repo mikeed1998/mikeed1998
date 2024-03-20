@@ -2,15 +2,17 @@ My profesional Skills
 
 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,py&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,py,js&perline=10)](https://skillicons.dev)
 
 Web Development
 
 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=10)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=10)](https://skillicons.dev)
+
 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,flask&perline=10)](https://skillicons.dev)
 
 Databases
 
