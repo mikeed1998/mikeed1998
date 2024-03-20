@@ -7,7 +7,7 @@ Programming languages
 Web Development
 
 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bs,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=10)](https://skillicons.dev)
 Backend
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel&perline=10)](https://skillicons.dev)
