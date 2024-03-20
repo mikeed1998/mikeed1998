@@ -1,7 +1,7 @@
 My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,php&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,py,c,cpp,bs&perline=10)](https://skillicons.dev)
 
 
 ### Hi! 👻
