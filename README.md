@@ -1,7 +1,15 @@
-My Skills
+My profesional Skills
 
+Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,py,c,cpp,bs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,py&perline=10)](https://skillicons.dev)
+
+Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,laravel,react,bs&perline=10)](https://skillicons.dev)
+
+Databases
+
 
 
 ### Hi! 👻
