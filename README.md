@@ -16,6 +16,7 @@ Backend
 
 Databases
 
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)](https://skillicons.dev)
 
 
 ### Hi! 👻
