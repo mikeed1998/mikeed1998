@@ -8,11 +8,9 @@ Web Development
 
 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,php,laravel,flask,jquery&perline=10)](https://skillicons.dev)
 
-Backend
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,flask&perline=10)](https://skillicons.dev)
+Otros
 
 Databases
 
