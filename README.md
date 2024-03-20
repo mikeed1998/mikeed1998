@@ -6,6 +6,10 @@ Programming languages
 
 Web Development
 
+Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bs,blade&perline=10)](https://skillicons.dev)
+Backend
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,php,laravel,react,bs&perline=10)](https://skillicons.dev)
 
 Databases
