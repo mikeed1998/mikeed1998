@@ -2,23 +2,8 @@ My profesional Skills
 
 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,py,js&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,gtk,php,py,js,html,css,bootstrap,react,php,laravel,flask,jquery,mysql,sqlite,sublime,vscode&perline=10)](https://skillicons.dev)
 
-Web Development
-
-Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,php,laravel,flask,jquery&perline=10)](https://skillicons.dev)
-
-Otros
-
-Databases
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)](https://skillicons.dev)
-
-Editors
-
-[![My Skills](https://skillicons.dev/icons?i=sublime,vscode&perline=10)](https://skillicons.dev)
 
 
 
